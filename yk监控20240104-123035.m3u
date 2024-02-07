@@ -328,6 +328,14 @@ http://dmon-ilp-hd.youku.com/hd-ent/hd7_4yk1080.m3u8?auth_key=1735896156-0-0-186
 http://dmon-ilp-hd.youku.com/hd-ent/hd8_4yk720.m3u8?auth_key=1735896174-0-0-5897858323f55076b195504cc24a5c7c&cdnQuality=720p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华东hd8-1080p
 http://dmon-ilp-hd.youku.com/hd-ent/hd8_4yk1080.m3u8?auth_key=1735896174-0-0-95469a0818822ec252c5e9fc83e22d33&cdnQuality=1080p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华东hd9-720p
+http://dmon-ilp-hd.youku.com/hd-ent/hd9_4yk720.m3u8?auth_key=1738842842-0-0-78cebfbb0121696beff1b6e1a1b5e733&cdnQuality=720p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华东hd9-1080p
+http://dmon-ilp-hd.youku.com/hd-ent/hd9_4yk1080.m3u8?auth_key=1738842842-0-0-ba89bce66538519627c931c7ac1970ab&cdnQuality=1080p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华东hd10-720p
+http://dmon-ilp-hd.youku.com/hd-ent/hd10_4yk720.m3u8?auth_key=1738842872-0-0-cd4ae444f9c48d3a31968c6920d67167&cdnQuality=720p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华东hd10-1080p
+http://dmon-ilp-hd.youku.com/hd-ent/hd10_4yk1080.m3u8?auth_key=1738842872-0-0-6d8699b01f8cba8c91337f0b675c6076&cdnQuality=1080p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hdda-720p
 http://dmon-ilp-hb.youku.com/hdd-ent/highability-hdda_4yk720.m3u8?auth_key=1735896478-0-0-9cc1b2106fdc54192281a693c806faf6&cdnQuality=720p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hdda-1080p
@@ -374,6 +382,14 @@ http://dmon-ilp-hb.youku.com/hd-ent/highability-hd7_4yk1080.m3u8?auth_key=173589
 http://dmon-ilp-hb.youku.com/hd-ent/highability-hd8_4yk720.m3u8?auth_key=1735896710-0-0-27548737bb999240286e1fc49b7712af&cdnQuality=720p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hd8-1080p
 http://dmon-ilp-hb.youku.com/hd-ent/highability-hd8_4yk1080.m3u8?auth_key=1735896710-0-0-09d9d38993f28a2a72a458177cca3f61&cdnQuality=1080p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hd9-720p
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd9_4yk720.m3u8?auth_key=1738841986-0-0-c757c3d346f59054701ab5f42ebe46be&cdnQuality=720p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hd9-1080p
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd9_4yk1080.m3u8?auth_key=1738841986-0-0-eb57410757067957c3f1aa6ab5bdc9ce&cdnQuality=1080p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hd10-720p
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd10_4yk720.m3u8?auth_key=1738842822-0-0-f70da25f092f991a1e4b31138a045a4b&cdnQuality=720p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="💻窄高非窄高转码",华北hd10-1080p
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd10_4yk1080.m3u8?auth_key=1738842822-0-0-60fbfbff9b37f20ab7e8bfe8807c65e9&cdnQuality=1080p
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📰热点新闻央视流",merge1
 http://dno-501-1001-ilp.youku.com/t0/merge1.m3u8?auth_key=1735897308-0-0-4c0cdaf5098fcefa04161f20453b4da8&cdnQuality=orig
