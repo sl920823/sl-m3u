@@ -156,6 +156,10 @@ http://dmon-ilp-hd.youku.com/hd-ent/hd6.m3u8?auth_key=1735893066-0-0-5a8d8722c69
 http://dmon-ilp-hd.youku.com/hd-ent/hd7.m3u8?auth_key=1735893080-0-0-9666f7c3a73b883409903cfd834bd1c1&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东hd8合流
 http://dmon-ilp-hd.youku.com/hd-ent/hd8.m3u8?auth_key=1735893092-0-0-bd605b11585ac03dc9a9799ffd0ff55d&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东hd9合流
+http://dmon-ilp-hd.youku.com/hd-ent/hd9.m3u8?auth_key=1738840366-0-0-6f24e17fe14250150fca19dc52c160d8&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东hd10合流
+http://dmon-ilp-hd.youku.com/hd-ent/hd10.m3u8?auth_key=1738840390-0-0-987c67decb383e983fd6869768f2627f&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北hdda合流
 http://dmon-ilp-hb.youku.com/hdd-ent/highability-hdda.m3u8?auth_key=1735893114-0-0-499ecaf9b508c85f9a33a585e6ec2ee9&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北hddb合流
@@ -180,6 +184,42 @@ http://dmon-ilp-hb.youku.com/hd-ent/highability-hd6.m3u8?auth_key=1735893218-0-0
 http://dmon-ilp-hb.youku.com/hd-ent/highability-hd7.m3u8?auth_key=1735893226-0-0-08d2d7361e4710556b9f6ab9895d6c62&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北hd8合流
 http://dmon-ilp-hb.youku.com/hd-ent/highability-hd8.m3u8?auth_key=1735893236-0-0-308dca25319a582829e25b5e3438646a&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北hd9合流
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd9.m3u8?auth_key=1738840420-0-0-788e826b46d4648ce437c918710c0197&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北hd10合流
+http://dmon-ilp-hb.youku.com/hd-ent/highability-hd10.m3u8?auth_key=1738840434-0-0-bf29a96384b228efb664dd675218a9ec&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p1合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p1.m3u8?auth_key=1738840467-0-0-12d6aa97da9fbf7097a3f7be696e57d8&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p2合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p2.m3u8?auth_key=1738840614-0-0-f9437ed8c067894be6df356984bbef61&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p3合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p3.m3u8?auth_key=1738840622-0-0-4c0bbdfffe7e2998d32e870b02673089&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p4合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p4.m3u8?auth_key=1738840633-0-0-6d86cd95cca259730d5c085589da23ff&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p5合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p5.m3u8?auth_key=1738840641-0-0-c240a64e40c333e17e743f0328923aae&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p6合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p6.m3u8?auth_key=1738840660-0-0-5b4aafef2eaa325182b2063b9f44efc1&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p7合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p7.m3u8?auth_key=1738840742-0-0-ed3b285a0235f149ecf88246b176343c&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华东50p8合流
+http://dmon-ilp-hd.youku.com/50p-ent/50p8.m3u8?auth_key=1738840750-0-0-159866aecbcb116e9a5417721c2b5664&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p1合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p1.m3u8?auth_key=1738840760-0-0-8c785c6ae1f66aebd689c34855c6b423&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p2合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p2.m3u8?auth_key=1738840772-0-0-d574d887a0e677022788560275658dac&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p3合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p3.m3u8?auth_key=1738840800-0-0-e4dd65e5528b65423ae94e4b62460762&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p4合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p4.m3u8?auth_key=1738840808-0-0-2f5a1a86fcd06ad4fb375809d145534c&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p5合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p5.m3u8?auth_key=1738840821-0-0-faa24491604a24583e8c049bc98a9867&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p6合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p6.m3u8?auth_key=1738840829-0-0-b59ce820935234a1547d8e13a33a9389&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p7合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p7.m3u8?auth_key=1738840840-0-0-08938e2393e4beb9732de7e05ede57b3&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",华北50p8合流
+http://dmon-ilp-hb.youku.com/50p-ent/highability-50p8.m3u8?auth_key=1738840848-0-0-839ca07cf31f54768b6b4f2e91f72368&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",mix2023scene264
 http://dmon-ilp-hd.youku.com/hdd4k-ent/mix2023scene264.m3u8?auth_key=1735893328-0-0-f5958ff51465d27c7e015737f0b2c97f&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🧵窄高非窄高",mix2023scene265
