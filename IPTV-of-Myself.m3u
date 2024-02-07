@@ -1,196 +1,196 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV1公司流
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1公司流
 http://cba-exchange-hb.youku.com/cba-matrix/test-cctv1.m3u8?auth_key=1735787747-0-0-a85d13de087df2db66be13eb03357db0&cdnQuality=orig
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV3
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV4
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV5
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV5+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV5+
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV5+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV6
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV7
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV8
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV9
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV10
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV13公司流
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13公司流
 http://cba-exchange-hb.youku.com/cba-matrix/test-cctv13.m3u8?auth_key=1735787916-0-0-5ee08dd335666f302477740ae46b726f&cdnQuality=orig
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV13
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV14
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV14
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV15
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV15
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV16
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV16
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV16
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV16
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",CCTV-18高清
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV-18高清
 https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",农林卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",农林卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",农林卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",农林卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",安多卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",南方卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",南方卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",广东卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",广东卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",山东卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",山东卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",深圳卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",深圳卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",浙江卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",浙江卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",青海卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",青海卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",三沙卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",延边卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",延边卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",延边卫视
 http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",延边卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",延边卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",北京卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",江苏卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "央视和卫视IPTV流",黑龙江卫视
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",南京娱乐
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",青岛城阳
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",青岛城阳
 http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",烟台新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",烟台新闻综合
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",烟台公共
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",烟台经济科技
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",烟台影
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",烟台影
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",菏泽新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",菏泽新闻综合
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",菏泽经济生活
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",菏泽经济生活
 http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",菏泽影
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",菏泽影
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",枣庄新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",枣庄新闻综合
 http://stream.zztvzd.com/1/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",枣庄教育
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",枣庄教育
 http://stream.zztvzd.com/2/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",枣庄公共
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",枣庄公共
 http://stream.zztvzd.com/3/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",东营综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",东营综合
 http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",东营公共
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",东营公共
 http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",东营科教
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",东营科教
 http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",青州综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",青州文化旅游
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",河北农民
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",河北农民
 https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄娱乐
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄生活
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄都市
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",鹿泉一套
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",河北农民
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",河北农民
 https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄娱乐
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄生活
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄都市
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邢台综合频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邢台综合频道
 https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",鹿泉一套
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",鹿泉一套
 https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",鹿泉一套
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄新闻综合
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄娱乐
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄娱乐
 http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄生活
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",石家庄都市
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸公共频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸公共频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸公共频道
 https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸公共频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸公共频道
 http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸科技教育
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸科技教育
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸科技教育
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邯郸科技教育
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邯郸科技教育
 http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",邢台综合频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",邢台综合频道
 https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",鹿泉一套
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",鹿泉一套
 https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",鹿泉一套
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",昌黎综合频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",昌黎综合频道
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",昌黎综合频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",昌黎综合频道
 https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",苏州4K频道
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",苏州4K频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",斗鱼4K影院
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",斗鱼4K影院
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",4k记录欧洲
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",4k记录欧洲
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",静态4K测试
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",静态4K测试
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" "地方台IPTV流",欢笑剧场4KHLG小果源
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="地方台IPTV流",欢笑剧场4KHLG小果源
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 
 
