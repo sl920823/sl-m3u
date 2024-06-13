@@ -1,7 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1公司流
-http://cba-exchange-hb.youku.com/cba-matrix/test-cctv1.m3u8?auth_key=1735787747-0-0-a85d13de087df2db66be13eb03357db0&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0613cctv13.m3u8?auth_key=1749797603-0-0-0810c39365b3a94d08e72e7bc66f1c06&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV8公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0613cctv8.m3u8?auth_key=1749797703-0-0-3a7df25e5a1a60b944267ba3f931e243&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",东方公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0613dongfang.m3u8?auth_key=1749797743-0-0-b06be7d4d78fd075bf3cae74f7fa33ad&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",浙江公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0613zhejiang.m3u8?auth_key=1749797777-0-0-8001e71aa0d0dcfb008188e4f655536f&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",江苏公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0613jiangsu.m3u8?auth_key=1749797807-0-0-5cf38f1683ee8e5905f34abfc2e6f088&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
@@ -36,8 +44,6 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV10
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13公司流
-http://cba-exchange-hb.youku.com/cba-matrix/test-cctv13.m3u8?auth_key=1735787916-0-0-5ee08dd335666f302477740ae46b726f&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV14
