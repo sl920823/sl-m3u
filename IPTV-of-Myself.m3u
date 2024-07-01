@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0626cctv1.m3u8?auth_key=1751016409-0-0-437923974d5bd0ad4f65c93a26119551&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV13公司流
 http://cba-exchange-hb.youku.com/cba-matrix/0613cctv13.m3u8?auth_key=1749797603-0-0-0810c39365b3a94d08e72e7bc66f1c06&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV8公司流
@@ -10,6 +12,10 @@ http://cba-exchange-hb.youku.com/cba-matrix/0613dongfang.m3u8?auth_key=174979774
 http://cba-exchange-hb.youku.com/cba-matrix/0613zhejiang.m3u8?auth_key=1749797777-0-0-8001e71aa0d0dcfb008188e4f655536f&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",江苏公司流
 http://cba-exchange-hb.youku.com/cba-matrix/0613jiangsu.m3u8?auth_key=1749797807-0-0-5cf38f1683ee8e5905f34abfc2e6f088&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",湖南公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0626hunan.m3u8?auth_key=1751016409-0-0-525bd10ae6061d9f2d0c7d1e9f1969bc&cdnQuality=orig
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",北京公司流
+http://cba-exchange-hb.youku.com/cba-matrix/0626BTV1.m3u8?auth_key=1751016409-0-0-2581c0c0339a7a6c8a2c7344c8eb01ad&cdnQuality=orig
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视和卫视IPTV流",CCTV1
